@@ -1,6 +1,4 @@
-
-
-Dash-FianicalMarkets
+#Dash-FianicalMarkets
 Earnings View Report for Financial Markets with Dash
 
 This App demonstrates how we can create a typical earnings reports for Stock Markets
